@@ -1,0 +1,13 @@
+name = "OptimalGaussianInput"
+uuid = "1fb9afa1-0c40-4e7a-aa6d-1d95b1bbcb17"
+authors = ["Stephan Scholz"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
