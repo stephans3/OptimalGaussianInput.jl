@@ -1,2 +1,6 @@
 /Manifest.toml
 /docs/build/
+/results/*
+/results/data/*
+/results/figures/*
+/results/h_results/*
